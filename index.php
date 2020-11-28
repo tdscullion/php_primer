@@ -23,5 +23,7 @@
 ?>
 
   <button type="button" class="btn btn-primary">Click Me</button>
+  <button type="button" class="btn btn-danger">Click Me</button>
+  <button type="button" class="btn btn-warning">Click Me</button>
 
 <?php include "includes/footer.php"; ?>
